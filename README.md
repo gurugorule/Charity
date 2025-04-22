@@ -93,7 +93,3 @@ The project includes Hardhat tests for the smart contract. Run them with:
 cd contracts
 npx hardhat test
 ```
-
-## License
-
-MIT
